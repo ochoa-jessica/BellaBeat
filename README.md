@@ -49,6 +49,10 @@
 ![Total Steps And Calories](Images/Total_Steps_VS_Calories_Burned.png)
 <p>As we can see on the scatter plot above, there is <b>positive relationship between the two variables</b>, which indicates that <b>the greater the number of steps taken, the more calories the user burns</b>. As discovered earlier, keeping active is crucial for maintaining good health, and the number of steps the individual takes daily has a significant impact on that.</p>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="Images/Total_Steps_VS_Calories_Burned.png">
+</picture>
+
 ## ACT
 <p>Recommendations based on key trends observed in our data to help guide Bellabeat's marketing strategy:</p>
 
