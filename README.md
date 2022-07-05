@@ -49,9 +49,9 @@
 
 ## ACT
 <p>Recommendations based on key trends observed in our data to help guide Bellabeat's marketing strategy:</p>
-<p>
-> Personalized notifications to promote activity : The users on average take total steps of 7,638 well below the mark of 10K daily steps recommended by the CDC. In addition, above analysis reveals that users spend about 81% os hteir day being sedentary. Bellabeat could incorporate personalized notifications on its app to motivate users to keep moving throughout the day, which could include real-time information regarding total number of steps taken so far or even number of steps left in order to reach the daily steps goal.
-</p>
+
+> <p>Personalized notifications to promote activity : The users on average take total steps of 7,638 well below the mark of 10K daily steps recommended by the CDC. In addition, above analysis reveals that users spend about 81% os hteir day being sedentary. Bellabeat could incorporate personalized notifications on its app to motivate users to keep moving throughout the day, which could include real-time information regarding total number of steps taken so far or even number of steps left in order to reach the daily steps goal.</p>
+
 > Dynamic Calories Counter : The app could also provide the user with an easy to use interface that displays the number of calories that are being burned throughout the day to improve motivation, the users could also have the option to set customized daily calories goal and be able to follow their progress throughout the day.
 > Detailed Sleep Log : The average user has a consistent sleeping schedule, but those who may want to improve the quality of their sleep or simply keep a track of it could benefit from a sleeping log. The app could also offer this feature and record sleep quality, the number of times one wakes up during the night, the total amount of time being awake in the bed, anxiety, and/or stress levels.
 > Weekly or Monthly Achievement Reports : To keep users motivated for long term, the Bellabeat app could provide customized weekly and monhtly reports regarding the total num of steps, burned calories, sleeping habits, weight loss, and total time spent on different levels of activity. The app could send customized congragulatory message/notification to those who keep up with good habits as well as motivational tips for improvement depending on the users overall performance.
