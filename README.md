@@ -49,4 +49,5 @@
 
 ## ACT
 <p>Recommendations based on key trends observed in our data to help guide Bellabeat's marketing strategy:</p>
-> **Personalized notifications to promote activity :**The users on average take total steps of 7,638 well below the mark of 10K daily steps recommended by the CDC. In addition, above analysis reveals that users spend about 81% os hteir day being sedentary. Bellabeat could incorporate personalized notifications on its app to motivate users to keep moving throughout the day, which could include real-time information regarding total number of steps taken so far or even number of steps left in order to reach the daily steps goal.
+
+> <b>Personalized notifications to promote activity :</b> The users on average take total steps of 7,638 well below the mark of 10K daily steps recommended by the CDC. In addition, above analysis reveals that users spend about 81% os hteir day being sedentary. Bellabeat could incorporate personalized notifications on its app to motivate users to keep moving throughout the day, which could include real-time information regarding total number of steps taken so far or even number of steps left in order to reach the daily steps goal.
