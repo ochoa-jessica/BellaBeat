@@ -59,15 +59,15 @@
 <p><li>Analyzing average time spend being awake in bed by day of the week</li></p>
  
 ### Key Findings
-<p><li>The average users take 7,638 steps and burns 2,304 calories per day.</li></p>
+<p><li>The average users take <i>7,638 steps and burns 2,304 calories per day</i>.</li></p>
 <p><li>There is positive relationship between the total number of steps and the total number of burned calories.</li></p>
 <p><li>The users seem to be consistent with their total steps scores throughout the week. The most active day is Saturday, and the least active day is Sunday.</li></p>
-<p><li>The users start their day between 6 a.m. and 8 a.m. They're most active between 5 p.m. and 7 p.m. and become least active at 8 p.m. and after.</li></p>
-<p><li>The highest number of burned calories occur between 5 p.m. and 7 p.m., when the users are most active.</li></p>
+<p><li>The users start their day between 6 a.m. and 8 a.m. They're most active between <i>5 p.m. and 7 p.m.</i> and become least active at <i>8 p.m. and after</i>.</li></p>
+<p><li>The highest number of burned calories occur between <i>5 p.m. and 7 p.m.</i>, when the users are most active.</li></p>
 <p><li>Although the average user is very active for over 30 minutes every day, they still spend 81% of their time being sedentary.</li></p>
-<p><li>There is strong, positive relationship between the total number of minutes asleep and the total time spent in bed, with users only spending an average of 39.5 minutes of their total time in bed being awake.</li></p>
-<p><li>The users have a consistent sleeping schedule, with an average sleeping time of 419.8 minutes(or 7 hours) per night with Sunday(7.6 hours) being the day where the users seem to have slept the most.</li></p>
-<p><li>Recording the lowest number of steps and the highest number of minutes asleep, Sunday is likely a rest dat chosen by the users.</li></p>
+<p><li>There is strong, positive relationship between the total number of minutes asleep and the total time spent in bed, with users only spending an average of <i>39.5 minutes</i> of their total time in bed being awake.</li></p>
+<p><li>The users have a consistent sleeping schedule, with an average sleeping time of <i>419.8 minutes(or 7 hours)</i> per night with <i>Sunday(7.6 hours)</i> being the day where the users seem to have slept the most.</li></p>
+<p><li>Recording the lowest number of steps and the highest number of minutes asleep, Sunday is likely a rest day chosen by the users.</li></p>
 
 ## SHARE
 #### Visualizing Total Steps v/s Calories Burned
