@@ -62,7 +62,7 @@
 <p><li>The average users take <i>7,638 steps and burns 2,304 calories per day</i>.</li></p>
 <p><li>There is positive relationship between the total number of steps and the total number of burned calories.</li></p>
 <p><li>The users seem to be consistent with their total steps scores throughout the week. The most active day is Saturday, and the least active day is Sunday.</li></p>
-<p><li>The users start their day between 6 a.m. and 8 a.m. They're most active between <i>5 p.m. and 7 p.m.</i> and become least active at <i>8 p.m. and after</i>.</li></p>
+<p><li>The users start their day between <i>6 a.m. and 8 a.m</i>. They're most active between <i>5 p.m. and 7 p.m.</i> and become least active at <i>8 p.m. and after</i>.</li></p>
 <p><li>The highest number of burned calories occur between <i>5 p.m. and 7 p.m.</i>, when the users are most active.</li></p>
 <p><li>Although the average user is very active for over 30 minutes every day, they still spend 81% of their time being sedentary.</li></p>
 <p><li>There is strong, positive relationship between the total number of minutes asleep and the total time spent in bed, with users only spending an average of <i>39.5 minutes</i> of their total time in bed being awake.</li></p>
