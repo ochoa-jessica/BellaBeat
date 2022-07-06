@@ -58,6 +58,10 @@
 ![Most Active Time of The Day](Images/Most_Active_Time_Of_Day.png)
 <p>The above bar chart shows us that the <b>users tend to be more active between 6 and 8 am</b>. The level of activity stays doesn't change dramatically throughout the day, but the <b>peak hours seem to occur between 5 and 7 pm</b>. Our users are likely choosing to work out after work/school/college hours. Although take a note that their <b>level of activity starts decreasing significantly at 8 pm and keeps going down as the hours progress</b>, likely users seem to go to bed at a reasonable time, as lower levels of activity are recorded at late hours of the night.</p>
 
+#### Visualizing The Time of The Day Users Burn The Most Calories
+![Time of The Day Most Calories Burned](Images/Calories_By_The_Time_Of_The_Day.png)
+<p>According to [SleepFoundation](https://www.sleepfoundation.org/how-sleep-works/how-your-body-uses-calories-while-you-sleep#:~:text=As%20a%20very%20approximate%20number,metabolic%20rate2%20(BMR), we burn around 50 calories an hour while we sleep and we're abe to observe that in the bar chart above. Notice that as the users wake up and start moving, that is when <b>the number of burned calories increases, around the same time that the users are most active during the day</b>.</p>
+
 ## ACT
 <p>Recommendations based on key trends observed in our data to help guide Bellabeat's marketing strategy:</p>
 
