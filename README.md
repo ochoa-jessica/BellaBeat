@@ -46,9 +46,13 @@
 <p><li>Recording the lowest number of steps and the highest number of minutes asleep, Sunday is likely a rest dat chosen by the users.</li></p>
 
 ## SHARE
-### Visualizing Total Steps v/s Calories Burned
+##### Visualizing Total Steps v/s Calories Burned
 ![Total Steps And Calories](Images/Total_Steps_VS_Calories_Burned.png)
 <p>As we can see on the scatter plot above, there is <b>positive relationship between the two variables</b>, which indicates that <b>the greater the number of steps taken, the more calories the user burns</b>. As discovered earlier, keeping active is crucial for maintaining good health, and the number of steps the individual takes daily has a significant impact on that.</p>
+
+##### Visualizing Average Total Steps by Day of The Week
+![Avg Total Steps by The Day of Week](Images/Avg_Total_Steps_Day_Of_Week.png)
+<p>The above bar chart shows us the average total steps taken by the users throughout the week. The <b>most active day in terms of steps taken is Saturday, followed by Tuesday</b>. The <b>least active day is Sunday</b> - most likely a rest day for the users. It also gives us the confirmation that the users seem to be consistent with their total steps scores./p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="Images/Total_Steps_VS_Calories_Burned.png">
