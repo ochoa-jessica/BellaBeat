@@ -36,7 +36,6 @@
 <p><li>Checking the data types in each dataset</li></p>
 <p><li><b>Summary Statistics</b></li>
 <ul><li>How many unique participants are there in each dataframe?</li></ul>
-> By looking at the above results, it seems like <b>not all 33 participants have logged their weight or sleep information on the app.</b> The fact that weight dataset only contains information from eight users could be a red flag when it comes to making recommendations for the general public. Those users may not adequately represent the population, which could lead to bias results. Hence, I will not include this dataset in the analysis.
 <ul><li>How many rows are in each column?</li></ul></p>
 <p><li><b>Cleaning Data</b></li>
 <ul><li>Checking for empty cells</li></ul>
