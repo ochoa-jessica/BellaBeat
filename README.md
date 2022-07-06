@@ -60,7 +60,7 @@
 
 #### Visualizing The Time of The Day Users Burn The Most Calories
 ![Time of The Day Most Calories Burned](Images/Calories_By_The_Time_Of_The_Day.png)
-<p>According to [SleepFoundation](https://www.sleepfoundation.org/how-sleep-works/how-your-body-uses-calories-while-you-sleep), we burn around 50 calories an hour while we sleep and we're abe to observe that in the bar chart above. Notice that as the users wake up and start moving, that is when <b>the number of burned calories increases, around the same time that the users are most active during the day</b>.</p>
+<p>According to the [Sleep Foundation](https://www.sleepfoundation.org/how-sleep-works/how-your-body-uses-calories-while-you-sleep), we burn around 50 calories an hour while we sleep - and we are able to see that in the graph above. Observe that as the users wake up and start moving, the number of burned calories increases, peaking around the same time that the users are most active during the day.</p>
 
 ## ACT
 <p>Recommendations based on key trends observed in our data to help guide Bellabeat's marketing strategy:</p>
