@@ -44,19 +44,19 @@
 ## ANALYZE 
 ### Data Transformation
 <p><li>Renaming the date column</li></p>
-<p><li>Changing data formatting<li></p>
+<p><li>Changing data formatting</li></p>
 <p><li>Merging the datasets</li></p>
-<p><li>Activity Data EDA</li>
-<ul><li>Analyze the average of total steps and calories</li></ul>
-<ul><li>Analyzing the average of total steps by the day of the week</li></ul>
-<ul><li>Analyzing the most active time of the day</li></ul>
-<ul><li>Analyzing the time of the day users burn the most calories</li></ul>
-<ul><li>Analyzing different categories of activity</li></ul>
-<ul><li>Analyzing average amount of time spend in each activity category</li></ul></p>
-<p><li>Sleep Data EDA</li>
-<ul><li>Analyzing average total minutes asleep and total time in bed</li></ul>
-<ul><li>Analyzing average minutes asleep by day of the week</li></ul>
-<ul><li>Analyzing average time spend being awake in bed by day of the week</li></ul></p>
+### Activity Data EDA
+<p><li>Analyze the average of total steps and calories</li></p>
+<p><li>Analyzing the average of total steps by the day of the week</li></p>
+<p><li>Analyzing the most active time of the day</li></p>
+<p><li>Analyzing the time of the day users burn the most calories</li></p>
+<p><li>Analyzing different categories of activity</li></p>
+<p><li>Analyzing average amount of time spend in each activity category</li></p>
+### Sleep Data EDA
+<p><li>Analyzing average total minutes asleep and total time in bed</li></p>
+<p><li>Analyzing average minutes asleep by day of the week</li></p>
+<p><li>Analyzing average time spend being awake in bed by day of the week</li></p>
  
 ### Key Findings
 <p><li>The average users take 7,638 steps and burns 2,304 calories per day.</li></p>
