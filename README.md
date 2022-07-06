@@ -46,14 +46,12 @@
 <p><li>Renaming the date column</li></p>
 <p><li>Changing data formatting</li></p>
 <p><li>Merging the datasets</li></p>
-### Activity EDA
 <p><li>Analyze the average of total steps and calories</li></p>
 <p><li>Analyzing the average of total steps by the day of the week</li></p>
 <p><li>Analyzing the most active time of the day</li></p>
 <p><li>Analyzing the time of the day users burn the most calories</li></p>
 <p><li>Analyzing different categories of activity</li></p>
 <p><li>Analyzing average amount of time spend in each activity category</li></p>
-### Sleep EDA
 <p><li>Analyzing average total minutes asleep and total time in bed</li></p>
 <p><li>Analyzing average minutes asleep by day of the week</li></p>
 <p><li>Analyzing average time spend being awake in bed by day of the week</li></p>
