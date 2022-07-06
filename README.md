@@ -46,17 +46,17 @@
 <p><li>Recording the lowest number of steps and the highest number of minutes asleep, Sunday is likely a rest dat chosen by the users.</li></p>
 
 ## SHARE
-##### Visualizing Total Steps v/s Calories Burned
+#### Visualizing Total Steps v/s Calories Burned
 ![Total Steps And Calories](Images/Total_Steps_VS_Calories_Burned.png)
 <p>As we can see on the scatter plot above, there is <b>positive relationship between the two variables</b>, which indicates that <b>the greater the number of steps taken, the more calories the user burns</b>. As discovered earlier, keeping active is crucial for maintaining good health, and the number of steps the individual takes daily has a significant impact on that.</p>
 
-##### Visualizing Average Total Steps by Day of The Week
+#### Visualizing Average Total Steps by Day of The Week
 ![Avg Total Steps by The Day of Week](Images/Avg_Total_Steps_Day_Of_Week.png)
-<p>The above bar chart shows us the average total steps taken by the users throughout the week. The <b>most active day in terms of steps taken is Saturday, followed by Tuesday</b>. The <b>least active day is Sunday</b> - most likely a rest day for the users. It also gives us the confirmation that the users seem to be consistent with their total steps scores./p>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="Images/Total_Steps_VS_Calories_Burned.png">
-</picture>
+<p>The above bar chart shows us the average total steps taken by the users throughout the week. The <b>most active day in terms of steps taken is Saturday, followed by Tuesday</b>. The <b>least active day is Sunday</b> - most likely a rest day for the users. It also gives us the confirmation that the users seem to be consistent with their total steps scores.</p>
+  
+#### Visualizing The Most Active Time of The Day
+![Most Active Time of The Day](Images/Most_Active_Time_Of_Day.png)
+<p>The above bar chart shows us that the <b>users tend to be more active between 6 and 8 am</b>. The level of activity stays doesn't change dramatically throughout the day, but the <b>peak hours seem to occur between 5 and 7 pm</b>. Our users are likely choosing to work out after work/school/college hours. Although take a note that their <b>level of activity starts decreasing significantly at 8 pm and keeps going down as the hours progress</b>, likely users seem to go to bed at a reasonable time, as lower levels of activity are recorded at late hours of the night.</p>
 
 ## ACT
 <p>Recommendations based on key trends observed in our data to help guide Bellabeat's marketing strategy:</p>
