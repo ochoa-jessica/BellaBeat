@@ -32,6 +32,12 @@
 <p>In regard to data bias, considering that the dataset only gathers information of 33 FitBit users over the span of two months, it is important to keep in mind that there is a real possibility that the data isn’t a perfect representation of all FitBit users. However, we can still analyze the dataset and learn interesting information about the surveyed users and how they used their smart tracking devices over that time period.</p>
 
 ## PROCESS
+### Data Exploration
+<p><li>Checking the data types in each dataset</li></p>
+<p><li>Summary Statistics</li>
+<ul>How many unique participants are there in each dataframe</ul>
+<ul>How many rows are in each column?</ul></p>
+
 
 ## ANALYZE 
 ### Key Findings
