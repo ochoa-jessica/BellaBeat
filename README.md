@@ -37,9 +37,27 @@
 <p><li>Summary Statistics</li>
 <ul><li>How many unique participants are there in each dataframe?</li></ul>
 <ul><li>How many rows are in each column?</li></ul></p>
-
+<p><li>Cleaning Data</li>
+<ul>Checking for empty cells</ul>
+<ul>Looking for duplicate values</ul></p>
 
 ## ANALYZE 
+### Data Transformation
+<p><li>Renaming the date column</li></p>
+<p><li>Changing data formatting<li></p>
+<p><li>Merging the datasets</li></p>
+<p><li>Activity Data EDA</li>
+  <ul>Analyze the average of total steps and calories</ul>
+  <ul>Analyzing the average of total steps by the day of the week</ul>
+  <ul>Analyzing the most active time of the day</ul>
+  <ul>Analyzing the time of the day users burn the most calories</ul>
+  <ul>Analyzing different categories of activity</ul>
+  <ul>Analyzing average amount of time spend in each activity category</ul></p>
+<p><li>Sleep Data EDA</li>
+  <ul>Analyzing average total minutes asleep and total time in bed</ul>
+  <ul>Analyzing average minutes asleep by day of the week</ul>
+  <ul>Analyzing average time spend being awake in bed by day of the week</ul></p>
+ 
 ### Key Findings
 <p><li>The average users take 7,638 steps and burns 2,304 calories per day.</li></p>
 <p><li>There is positive relationship between the total number of steps and the total number of burned calories.</li></p>
