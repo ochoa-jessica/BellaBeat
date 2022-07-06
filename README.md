@@ -34,10 +34,10 @@
 ## PROCESS
 ### Data Exploration
 <p><li>Checking the data types in each dataset</li></p>
-<p><li>Summary Statistics</li>
+<p><li><b>Summary Statistics</b></li>
 <ul><li>How many unique participants are there in each dataframe?</li></ul>
 <ul><li>How many rows are in each column?</li></ul></p>
-<p><li>Cleaning Data</li>
+<p><li><b>Cleaning Data</b></li>
 <ul><li>Checking for empty cells</li></ul>
 <ul><li>Looking for duplicate values</li></ul></p>
 
