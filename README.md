@@ -35,8 +35,8 @@
 ### Data Exploration
 <p><li>Checking the data types in each dataset</li></p>
 <p><li>Summary Statistics</li>
-<ul>How many unique participants are there in each dataframe</ul>
-<ul>How many rows are in each column?</ul></p>
+<ul><li>How many unique participants are there in each dataframe?</li></ul>
+<ul><li>How many rows are in each column?</li></ul></p>
 
 
 ## ANALYZE 
