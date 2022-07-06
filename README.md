@@ -60,7 +60,11 @@
 
 #### Visualizing The Time of The Day Users Burn The Most Calories
 ![Time of The Day Most Calories Burned](Images/Calories_By_The_Time_Of_The_Day.png)
-<p>According to the [Sleep Foundation](www.sleepfoundation.org), we burn around 50 calories an hour while we sleep and we're abe to observe that in the bar chart above. Notice that as the users wake up and start moving, that is when <b>the number of burned calories increases, around the same time that the users are most active during the day.</b></p>
+<p>According to the [Sleep Foundation](https://www.sleepfoundation.org), we burn around 50 calories an hour while we sleep and we are abe to observe that in the bar chart above. Notice that as the users wake up and start moving, that is when <b>the number of burned calories increases, around the same time that the users are most active during the day.</b></p>
+
+#### Visualizing The Average Minutes Spend In Each Activity Category
+![Avg Mins Spend in Each Activity Category](Images/Avg_Mins_Activity.png)
+<p>The [Department of Health and Human Services](https://www.mayoclinic.org/healthy-lifestyle/fitness/expert-answers/exercise/faq-20057916#:~:text=As%20a%20general%20goal%2C%20aim,your%20risk%20of%20metabolic%20problems.) recommends atleast 30 minutes of moderate physical activity. Reducing sitting time is important to avoid one's risk of developing metabolic problems. Even though our users are being very active more than 30 minutes every day, they're still spending an enormous amount of time being sedentary, which could result in future health issues.</p>
 
 ## ACT
 <p>Recommendations based on key trends observed in our data to help guide Bellabeat's marketing strategy:</p>
