@@ -66,6 +66,18 @@
 ![Avg Mins Spend in Each Activity Category](Images/Avg_Mins_Activity.png)
 <p>The [Department of Health and Human Services](https://www.mayoclinic.org/healthy-lifestyle/fitness/expert-answers/exercise/faq-20057916) recommends atleast 30 minutes of moderate physical activity. Reducing sitting time is important to avoid one's risk of developing metabolic problems. Even though our users are being very active more than 30 minutes every day, they're still spending an enormous amount of time being sedentary, which could result in future health issues.</p>
 
+#### Visualizing Total Minutes Asleep v/s Total Time Being Awake Or Not Asleep In Bed
+![Total Time Being Awake OR Not Asleep In Bed](Images/Total_Mins_Asleep_VS_Awake_In_Bed.png)
+<p>The above scatter plot indicates a strong positive linear association between total number of minutes asleep and the total number of minutes spend being awake in bed which means that most users are usually in bed only when they're sleeping, and not much longer before or after that. However, at times, they do spend good chunk of their time in bed without sleeping, which could be related to the weekends when many people choose to sleep or relax.</p>
+
+#### Visualizing The Average of Minutes Asleep By The Day of The Week
+![Avg Minutes Asleep By The Day of The Week](Images/Avg_Mins_Asleep_Day_Of_Week.png)
+<p>In the above bar chart, we can see that <b>the average total minutes asleep goes above 400 minutes(almost 419.8 minutes)</b> to be exact with <b>Sunday(7.6 hours) and Wednesday(7.2 hours) being the days where the users seem to have slept the most</b>. It is clear from this visualization that there are no significant changes in sleeping time throughout the week. This information shows us that the users have a consistent sleeping schedule. Sunday records the highest number of the Total Minutes Asleep on average If we go back to the Average of Total Steps By The Day Of The Week bar graph, notice that <b>Sunday also records the lowest number of the total steps average in the week</b>, emphasizing that Sunday <b>is likely the users choice of a rest day</b>.</p>
+
+#### Visualizing Average Awake Time In Bed By The Day of The Week
+![Avg Minutes Awake By The Day of The Week](Images/Avg_Awake_Time_In_Bed_Day_Of_Week.png)
+<p> As we can see from the above bar chart, <b>the users are very consistent with their time in bed</b> throughout the days of the week, and the same goes for the time they're awake in bed. <b>From their total time in bed, they spend on average 39.5 minutes awake</b>. The longest recorded times occurred on the weekend, which is perfectly understandable.</p>
+  
 ## ACT
 <p>Recommendations based on key trends observed in our data to help guide Bellabeat's marketing strategy:</p>
 
